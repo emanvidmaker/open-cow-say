@@ -2,11 +2,13 @@
   ___
 < moo >
   ---
-         \   ^__^ 
-          \  (oo)\_______
-             (__)\       )\/\\
-                 ||----w |
-                 ||     ||
+      \   ^__^
+       \  (oo)\_______
+          (__)\       )\/\
+              ||----w |
+              ||     ||
+---------------------------
+open-cow-say, an open-source alternative to cowsay
 */
 #include <iostream>
 void place(int n, char c){
@@ -51,7 +53,7 @@ int main(int argCount,char *argv[]) {
     place(length+11);
     std::cout << "||     ||"<< std::endl;
     place(length+24,'-');
-    std::cout << "\nOpen cow-say, an Opensource alternative to cowsay"<< std::endl;
+    std::cout << "\nopen-cow-say, an open-source alternative to cowsay"<< std::endl;
 
    return 0;
 }
