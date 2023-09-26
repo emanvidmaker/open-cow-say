@@ -23,8 +23,8 @@ This alternative is a simple recreation, its lacking some features but feel free
 * if the cow says "moo" it works.
 ### 🐮 Moo-Tip
 > You can change what the cow says by passing it as a parameter.
-## Porpuse
-I made this to refresh my c++ knowlage and to learn how to mantain an open-source Project.
+## Its purpose
+I made this to refresh my c++ knowlage and to learn how to mantain an open-source Project; While having fun.
 ## Feature Map Roadmap
 - [ ] Linux binaries
 - [ ] --Help parameter
